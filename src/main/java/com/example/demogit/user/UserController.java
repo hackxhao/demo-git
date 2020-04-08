@@ -9,7 +9,7 @@ public class UserController {
 
     @RequestMapping("/getUserInfo")
     public String getUserInfo(){
-        return "姓名：test";
+        return "姓名：123";
     }
 
 }
